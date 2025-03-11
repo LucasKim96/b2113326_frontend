@@ -12,7 +12,7 @@ export default {
   <div id="app">
     <AppHeader />
     <div class="container mt-3">
-      <router-view />
+      <router-view class="mx-auto" />
     </div>
   </div>
 </template>
