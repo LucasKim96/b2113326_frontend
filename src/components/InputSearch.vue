@@ -18,6 +18,8 @@ export default {
 <template>
   <div class="input-group">
     <input
+      name="formSearch"
+      id="formSearch"
       type="text"
       class="form-control"
       placeholder="Nhập thông tin cần tìm"
